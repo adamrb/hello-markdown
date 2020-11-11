@@ -18,6 +18,11 @@ This is a test, this is only a test
 
 *how can she not know what she is*
 
-## Sarah wishes she was as cool as me
+## ~~Sarah wishes she was as cool as me~~
 
-She really does
+~~She really does~~
+
+## Adam knows that Sarah is already cooler than he is
+He just won't admit it.
+But he knows.
+*we all know*
